@@ -1,5 +1,0 @@
-﻿  main.cpp
-C:\Users\Sergiu\source\repos\AppDev-19.03\AppDev-19.03\main.cpp(7,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  sendData.cpp
-  Generating Code...
-  AppDev-19.03.vcxproj -> C:\Users\Sergiu\source\repos\AppDev-19.03\Debug\AppDev-19.03.exe
